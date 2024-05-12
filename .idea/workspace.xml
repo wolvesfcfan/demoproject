@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d053785c-ed71-4094-bd32-064b04b4355f" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/HtmlReports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/HtmlReports/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/JsonReports/report.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/JsonReports/report.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/JunitReports/report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reports/JunitReports/report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +73,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: login">
+  <component name="RunManager" selected="JUnit.Runner">
     <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Features/login.feature" />
