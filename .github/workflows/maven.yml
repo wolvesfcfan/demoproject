@@ -30,4 +30,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Test with Maven
+      needs: build
       run: mvn -Dtest=Runner test
